@@ -1,0 +1,9 @@
+this is my first java code
+import java.util.*;
+
+public class P1{
+public static void main (String ... arg)
+{
+System.out.println("Hello world");
+}
+}
